@@ -2,3 +2,6 @@
 
 [Version 1](https://jessica-millar.github.io/crocodiles/)
 *10 November 2025*
+
+[Version 2](https://jessica-millar.github.io/crocodiles/index2.html)
+*17 November 2025*
